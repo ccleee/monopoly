@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "12380739-0b3f-42d4-9f1b-a3576c519d63",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2000,
+  "height": 2000,
+  "platformSettings": {},
+  "subMetas": {
+    "Laozong": {
+      "ver": "1.0.4",
+      "uuid": "4b7bfaa9-ff22-46ed-9905-ffb2f36f6cb4",
+      "rawTextureUuid": "12380739-0b3f-42d4-9f1b-a3576c519d63",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 43,
+      "offsetY": 0,
+      "trimX": 256,
+      "trimY": 249,
+      "width": 1574,
+      "height": 1502,
+      "rawWidth": 2000,
+      "rawHeight": 2000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

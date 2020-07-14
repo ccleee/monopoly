@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [
+    "DataView",
+    "prototype",
+    "write_utf8",
+    "offset",
+    "str",
+    "now",
+    "dataview",
+    "i",
+    "length",
+    "charcode",
+    "charCodeAt",
+    "setUint8",
+    "read_utf8",
+    "byte_length",
+    "out",
+    "len",
+    "c",
+    "char2",
+    "char3",
+    "getUint8",
+    "String",
+    "fromCharCode",
+    "array",
+    "utf8_byte_len",
+    "totalLength",
+    "charCode"
+  ],
+  "mappings": "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",
+  "file": "unknown",
+  "sourcesContent": [
+    "// 扩展DataView 读/写字符串 -->utf8的\r\nDataView.prototype.write_utf8 = function(offset, str) {\r\n    var now = offset;\r\n    var dataview = this;\r\n\r\n    for (var i = 0; i < str.length; i++) {\r\n        var charcode = str.charCodeAt(i);\r\n        if (charcode < 0x80) { \r\n            dataview.setUint8(now, charcode);\r\n            now ++;\r\n        }\r\n        else if (charcode < 0x800) {\r\n            dataview.setUint8(now, (0xc0 | (charcode >> 6)));\r\n            now ++;\r\n\r\n            dataview.setUint8(now, 0x80 | (charcode & 0x3f));\r\n            now ++;\r\n        }\r\n        else if (charcode < 0xd800 || charcode >= 0xe000) {\r\n\r\n            dataview.setUint8(now, 0xe0 | (charcode >> 12));\r\n            now ++;\r\n\r\n            dataview.setUint8(now, 0x80 | ((charcode>>6) & 0x3f));\r\n            now ++;\r\n\r\n            dataview.setUint8(now, 0x80 | (charcode & 0x3f));\r\n            now ++;\r\n        }\r\n        // surrogate pair\r\n        else {\r\n            i ++;\r\n\r\n            charcode = 0x10000 + (((charcode & 0x3ff)<<10)\r\n                      | (str.charCodeAt(i) & 0x3ff));\r\n\r\n            dataview.setUint8(now, 0xf0 | (charcode >>18));\r\n            now ++;\r\n\r\n            dataview.setUint8(now, 0x80 | ((charcode>>12) & 0x3f));\r\n            now ++;\r\n\r\n            dataview.setUint8(now, 0x80 | ((charcode>>6) & 0x3f));\r\n            now ++;\r\n\r\n            dataview.setUint8(now, 0x80 | (charcode & 0x3f));\r\n            now ++;\r\n        }\r\n    }\r\n}\r\n\r\nDataView.prototype.read_utf8 = function(offset, byte_length) {\r\n    var out, i, len, c;\r\n    var char2, char3;\r\n    var dataview = this;\r\n\r\n    out = \"\";\r\n    len = offset + byte_length;\r\n    i = offset;\r\n    while(i < len) {\r\n        c = dataview.getUint8(i);\r\n        i ++;\r\n        switch(c >> 4)\r\n        { \r\n        case 0: case 1: case 2: case 3: case 4: case 5: case 6: case 7:\r\n            // 0xxxxxxx\r\n            out += String.fromCharCode(c);\r\n            break;\r\n        case 12: case 13:\r\n            // 110x xxxx   10xx xxxx\r\n            char2 = array[i++];\r\n            out += String.fromCharCode(((c & 0x1F) << 6) | (char2 & 0x3F));\r\n            break;\r\n        case 14:\r\n            // 1110 xxxx  10xx xxxx  10xx xxxx\r\n            char2 = dataview.getUint8(i);\r\n            i ++;\r\n            char3 = dataview.getUint8(i);\r\n            i ++;\r\n            out += String.fromCharCode(((c & 0x0F) << 12) |\r\n                        ((char2 & 0x3F) << 6) |\r\n                        ((char3 & 0x3F) << 0));\r\n            break;\r\n        }\r\n    }\r\n\r\n    return out;\r\n}\r\n\r\n// 字符串 你好, 长度是2，不代表字节数,buf协议，写入我们的字符串的字节数，String扩充一个接口 \r\nString.prototype.utf8_byte_len = function() {\r\n    var totalLength = 0;\r\n\tvar i;\r\n\tvar charCode;\r\n\tfor (i = 0; i < this.length; i++) {\r\n\t\tcharCode = this.charCodeAt(i);\r\n\t\tif (charCode < 0x007f) {\r\n\t\t\ttotalLength = totalLength + 1;\r\n\t\t} \r\n\t\telse if ((0x0080 <= charCode) && (charCode <= 0x07ff)) {\r\n\t\t\ttotalLength += 2;\r\n\t\t} \r\n\t\telse if ((0x0800 <= charCode) && (charCode <= 0xffff)) {\r\n\t\t\ttotalLength += 3;\r\n\t\t}\r\n\t}\r\n\treturn totalLength; \r\n}\r\n\r\n\r\n/*\r\nvar str = \"你好\";\r\nvar buf = new ArrayBuffer(str.utf8_byte_len());\r\nvar dataview = new DataView(buf);\r\n\r\ndataview.write_utf8(0, str);\r\nvar str2 = dataview.read_utf8(0, str.utf8_byte_len());\r\nconsole.log(str2);\r\n*/"
+  ]
+}
